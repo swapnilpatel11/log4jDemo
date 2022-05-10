@@ -1,0 +1,9 @@
+17:11:52.897 [main] FATAL packageA.Demo - this is fatal
+17:11:52.898 [main] ERROR packageA.Demo - object is not present
+17:11:58.946 [main] DEBUG packageB.Demo22 - I am debugging
+17:11:58.948 [main] INFO  packageB.Demo22 - object is present
+17:11:58.948 [main] FATAL packageB.Demo22 - this is fatal
+17:11:58.948 [main] ERROR packageB.Demo22 - object is not present
+17:12:07.958 [main] DEBUG packageB.Demo22 - I am debugging
+17:12:07.959 [main] INFO  packageB.Demo22 - object is present
+17:12:07.959 [main] FATAL packageB.Demo22 - this is fatal
